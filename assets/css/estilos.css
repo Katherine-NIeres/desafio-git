@@ -2,13 +2,15 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/imagenfondo.jpg");
+  background-image: url("../img/imagenfondo2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+  
 }
 
 /* Mis trabajos */
